@@ -89,7 +89,7 @@ http
       <!--post 3-->
       <h2 style="font-size: 100;">facebook logo</h2>
       <p style="font-size:50;">Logo of facebook</p>
-      <img  src="images/Fb.png" alt="facebook" width="1080" height="720" >
+      <img  src="images/R.png" alt="facebook" width="1080" height="720" >
     </div>
 
       <style>
